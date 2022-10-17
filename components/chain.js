@@ -32,7 +32,7 @@ class Chain {
             }
 
             solution += 1
-            // console.log(solution)
+            console.log(`Attempting Nonce: ${solution}`)
         }
     }
 
